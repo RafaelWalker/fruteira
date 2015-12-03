@@ -1,0 +1,56 @@
+
+.topo{
+    font-family: 'Dancing Script', cursive;
+    font-size: 33pt;
+    text-align: center;
+    margin-right: 10%;
+}
+
+#logo{
+    width: 70%;
+    height: 60%;
+}
+
+#conteudo{
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+img .cesta{
+   
+}
+
+ul{
+    margin-top: 4%;
+}
+
+.footer{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20pt;
+    text-align: center;
+    margin-right: 10%;
+}
+
+#face{
+    width: 30%;
+    height: 30%;
+}
+
+#whats{
+    width: 40%;
+    height: 40%;
+    
+}
+
+.info{
+    text-align: center;
+    font-family: arial;
+    font-size: 14pt;
+}
+
+p{
+    text-align: center;
+    font-family: arial;
+    font-size: 12pt;
+}
